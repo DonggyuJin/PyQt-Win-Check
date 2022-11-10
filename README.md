@@ -5,3 +5,6 @@
 * University personal project
 * logo.png -> src must be added.
 * The batch file path is C:\win\ sub path.
+* Ui files are required separately.
+
+### Date Created 2021/10/29
